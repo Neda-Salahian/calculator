@@ -8,4 +8,4 @@
 * The calculation result should update while the user is entering values, so no submit buttons are needed.
 * Do not forget to add the `index.js` file at the end of the `index.html` file. Don't change anything else in `index.html`.
 
-* https://github.com/Neda-Salahian/calculator/blob/main/index.html
+
